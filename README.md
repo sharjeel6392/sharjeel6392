@@ -1,4 +1,4 @@
-# Sharjeel Ansari — MLOps Engineer
+# Sharjeel Ansari — ML Platform & MLOps Engineer
  
 > Building production-grade ML infrastructure at the intersection of DevOps, distributed systems, and machine learning.
  
